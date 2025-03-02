@@ -1,12 +1,33 @@
-# React + Vite
+# ShoppyGlobe E-commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+ShoppyGlobe is a React-based e-commerce app using Redux, React Router, and Tailwind CSS. It fetches products from an API, allows adding/removing items from the cart, and provides product details.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+- React.js
+- Redux Toolkit
+- React Router
+- Tailwind CSS
+- DummyJSON API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- API product fetching & search functionality  
+- Add/remove items to/from cart using Redux  
+- Dynamic product details & error handling  
+- Lazy loading & responsive design  
 
-## Expanding the ESLint configuration
+## 🏗️ Setup
+```bash
+git clone https://github.com/your-username/shoppyglobe.git
+cd shoppyglobe
+npm install
+npm start
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏆 Submission
+- Ensure no errors, proper indentation & comments  
+- Push code to GitHub & submit the repository link  
+
+---
+
+
