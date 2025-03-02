@@ -21,7 +21,7 @@ ShoppyGlobe is a React-based e-commerce app using Redux, React Router, and Tailw
 git clone https://github.com/your-username/shoppyglobe.git
 cd shoppyglobe
 npm install
-npm start
+npm run dev
 ```
 
 ## 🏆 Submission
